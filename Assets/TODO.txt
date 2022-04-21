@@ -1,0 +1,3 @@
+- Player skill affects timer
+- Complete Design Doc and how to play instructions
+- Set up interactable objects that represent lockpick with various difficulties
